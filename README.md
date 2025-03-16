@@ -1,3 +1,1 @@
 # git-tutorial
-
-<!-- first commit -->
